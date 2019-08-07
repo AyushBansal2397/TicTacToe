@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="reset_board">Reset Score</string>
+    <string name="reset_score">Reset Board</string>
+    <string name="single">Single Player</string>
+    <string name="c_score">"Computer : 0"</string>
+    <string name="multi">Multi Player</string>
+    <string name="fp_name">Player 1 Name </string>
+    <string name="sp_name">Player 2 Name </string>
+    <string name="con">Continue</string>
+    <string name="Switch">Switch Game Mode</string>
+</resources>
